@@ -1,0 +1,6 @@
+com\example\mymessenger\models\Message.class
+com\example\mymessenger\network\Connection.class
+com\example\mymessenger\tools\ConsoleHelper.class
+com\example\mymessenger\Server$Handler.class
+com\example\mymessenger\Server.class
+com\example\mymessenger\tools\MessageType.class
