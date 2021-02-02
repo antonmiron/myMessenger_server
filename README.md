@@ -1,4 +1,4 @@
-## Описание
+# myMessenger_client
 Улучшенная версия [сервера](https://github.com/antonmiron/Simple-Messenger-Server).
 
 Клиент: https://github.com/antonmiron/myMessenger_client
